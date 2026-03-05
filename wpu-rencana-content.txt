@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javescript
 * ES6
 * Fremwork javacript
+Struktur Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
